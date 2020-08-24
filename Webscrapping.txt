@@ -1,5 +1,0 @@
-Download HTML--> Clean --> Get Data
-
-
-Indentation in html page
-Havinf info only abt child and not having enough info about parent 
